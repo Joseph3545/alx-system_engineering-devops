@@ -1,3 +1,2 @@
-#!/bin/bash script to the path root
-pwd print current working directory
-
+#!/bin/bash
+pwd
